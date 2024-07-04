@@ -1,0 +1,1 @@
+g++ -Iinclude cpp_test/test.cc src/AllocationTracker.cpp -o a
